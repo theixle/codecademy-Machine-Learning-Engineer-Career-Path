@@ -6,7 +6,8 @@ My repo/workspace for development while going through the Codecademy Machine Lea
 - Link to prerequisite path: https://www.codecademy.com/learn/paths/machine-learning-ai-engineering-foundations
 
 ## To Do
-- [ ] item1
+- [ ] Finish Machine Learning/AI Engineering foundations prereq
+- [ ] Finish Machine Learning/AI Engineer main path
 
 ## Usage
 > here's a block quote
