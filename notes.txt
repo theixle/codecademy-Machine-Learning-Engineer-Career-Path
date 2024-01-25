@@ -1,0 +1,37 @@
+Be able to:
+-----------
+Define probability using the law of large numbers
+
+Quantify uncertain events using:
+The addition rule
+The product rule
+Bayes’ Theorem
+Tree Diagrams
+
+Describe random events using probability distributions
+
+Understand use-cases for the following probability distributions:
+Binomial Distribution
+Poisson Distribution
+
+Describe a population using a sampling distribution and the central limit theorem
+-----------------------------
+
+Set Theory:
+-----------
+https://www.codecademy.com/paths/machine-learning-ai-engineering-foundations/tracks/mlef-math-and-statistics-for-ml-ai-engineers/modules/mlef-probability-for-mlaieng/articles/probability-set-theory-and-the-law-of-large-numbers
+
+Set theory is a branch of mathematics based around the concept of sets. In simple terms, a set is a collection of things.
+
+Notationally, mathematicians often represent sets with curly braces. Sets also follow two key rules:
+Each element in a set is distinct.
+The elements in a set are in no particular order. {1,2,3,4,5} == {5,3,2,4,1}
+When defining a set, we often use a capital letter. A = {1,2,3,4,5}
+
+Sets can also contain subsets. Set A is a subset of set B if all the elements in A exist within B.
+
+A sample point is a single possible outcome of an experiment. Finally, a sample space is the set of all possible sample points for an experiment.
+
+A specific outcome (or set of outcomes) is known as an event and is a subset of the sample space.
+
+-----------------------------
